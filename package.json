@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/Obimbo07/Hello-Microverse#readme",
   "devDependencies": {
-    "hint": "^7.1.10",
-    "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^21.0.0",
+    "hint": "^2.0.0",
+    "stylelint": "^7.13.0",
+    "stylelint-config-standard": "^16.0.0",
     "stylelint-csstree-validator": "^1.9.0",
-    "stylelint-scss": "^3.21.0"
+    "stylelint-scss": "^1.5.2"
   }
 }
