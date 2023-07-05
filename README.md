@@ -24,7 +24,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -40,14 +39,14 @@
 
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
     <li><a href="https://reactjs.org/">HTMl</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Style</summary>
+  <summary>CSS</summary>
   <ul>
     <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
@@ -58,9 +57,17 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+- **[HTML to prepare the page semantics]**
+- **[CSS to style the page]**
+- **[linters to improve code readability and spot syntax errors]**
+- **[Git for versioning and code repositioning]**
 
-- **[This is a my first project in the Microverse program]**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Live Demo -->
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://obimbo07.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,29 +75,32 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
+Git installed
 
 ### Setup
 
-Clone this repository to your desired folder:
+open the terminal window
+run git clone https://github.com/Obimbo07/Hello-Microverse.git
+run cd Hello-Microverse
+open index.html
 
-  cd my-folder
-  git clone git@github.com:myaccount/Hello-Microverse.git
+### Install
 
+Install this project with:
+
+git 
+ 
 
 ### Usage
 
 To run the project, execute the following command:
 
 cd Hello-Microverse
-open index.html
+launch index.html
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
